@@ -1,1 +1,1 @@
-test auto rebase git code
+test auto rebase git code: fail
